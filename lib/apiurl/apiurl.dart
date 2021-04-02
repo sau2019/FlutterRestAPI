@@ -1,4 +1,4 @@
 class ApiUrl {
   static String matchapi =
-      'http://cricapi.com/api/matches?apikey=Jd3NVqJY3oUFSBFQQPVQk6ASPPf2';
+      'http://cricapi.com/api/matches?apikey=< API_KEY provided by cricapi.com >';
 }
